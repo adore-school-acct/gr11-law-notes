@@ -20,3 +20,7 @@ Rest of the notes can be seen via the explorer.
 - U2 - Rights, Freedoms, and Responsibilities
 - U3 - Criminal Law
 - U4 - Civil Law and Disputes
+
+## Sources
+
+Law in Action 2nd. Ed, Pearson
