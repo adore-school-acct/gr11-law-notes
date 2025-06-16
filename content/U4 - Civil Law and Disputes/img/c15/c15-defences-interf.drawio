@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.14">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1042" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="21532" value="" style="ellipse;fillColor=light-dark(#12AAB5,#FF0000);opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="179.5" y="18.5" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="21533" value="" style="ellipse;fillColor=light-dark(#E85642,#9933FF);opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="489.5" y="18.5" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="21534" value="&lt;div&gt;Defences to&lt;/div&gt;&lt;div&gt;Interference&lt;/div&gt;&lt;div&gt;with the Person&lt;/div&gt;" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="280" y="70" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="21537" value="consent" style="text;align=center;html=1;fontColor=light-dark(#FFFFFF,#FFFFFF);fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="540" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21538" value="self-defence" style="text;align=center;html=1;fontColor=light-dark(#FFFFFF,#FFFFFF);fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="280" y="220" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21539" value="statutory authority" style="text;align=center;html=1;fontColor=light-dark(#FFFFFF,#FFFFFF);fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="710" y="220" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21540" value="legal authority" style="text;align=center;html=1;fontColor=light-dark(#FFFFFF,#FFFFFF);fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="510" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xcixlNecYi72g3o7Owk5-21540" value="&lt;div&gt;Defences to&lt;/div&gt;&lt;div&gt;Interference&lt;/div&gt;&lt;div&gt;with the Property&lt;/div&gt;" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="70" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xcixlNecYi72g3o7Owk5-21541" value="defence of a third party" style="text;align=center;html=1;fontColor=light-dark(#FFFFFF,#FFFFFF);fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="220" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
