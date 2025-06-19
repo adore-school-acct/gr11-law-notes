@@ -41,6 +41,16 @@ a[Offer] --> b[Acceptance]
 b --> c[Consideration]
 ```
 
+- Offer
+	- offer must be communicated
+	- *invitation to treat* (not an offer)
+- Acceptance is not valid from inaction
+	- *unilateral contract*: acceptance by performing act requested
+	- burden shifted to offeror (offeree sends acceptance = accepted)
+- Consideration
+	- ✅ present consideration*, *future consideration*
+	- ❌ *past consideration*
+
 More detail: [[c18-contract-law]]
 
 ### Invalidating a Contract (Short Ans.)
@@ -62,7 +72,7 @@ mindmap
 mindmap
 [Incapacity to Contract]
 	(Minors)
-		(Necesities: *enforcable*)
+		(Necessities: *enforcable*)
 		(Voidable Contracts)
 		(Void Contracts)
 		(Parental Liability)
@@ -86,6 +96,14 @@ a --> c[Fraudulent]
 More detail: [[c18-contract-law]]
 
 ## Part B: Thinking &mdash; Case Studies
+
+### Cases Oversimplified
+
+- *Pettkus* v. *Becker*: Rosa B. and Lothar P. &rarr; cohabitation &rarr; beekeeping business [p. 479]
+- *F.H.* v. *McDougall*: Indigenous man sex. assaulted by Oblate brother McDougall [p. 446]
+- *WIC Radio Ltd.* v. *Simpson*: Simpson sues WIC Radio bcz. host Rafe Mair compared her to Nazis, KKK and skinheads [p. 466]
+- *M.* v. *H.*: Girls in same-sex relation; support payments denied; challenges "spouse"  as "man and woman" under *Charter* [p. 492]
+- *Derrickson* v. *Derrickson*: Rose and William &rarr; denied William's reserve properties under B.C. *Family Relations Act* &rarr; superseded by *Indian Act* [p. 512]
 
 ### *Pettkus* v. *Becker*, [1980] 2 S.C.R. 834
 
@@ -115,6 +133,12 @@ More detail: [[c18-contract-law]]
 - S.C.C. upholds Ontario Court of Appeal ruling
 - Rosa Becker never received share of property bcz. Lothar refused Court's decision
 
+**Legal Significance**
+
+- established the principle where one party should not benefit unjustly from the expense of the other
+- recognition of property rights during cohabitation
+- confirmed that contributions beyond money count (i.e. household labour, support)
+
 ### Case: *F.H.* v. *McDougall* (2008), S.C.C. 53 (CanLII)
 
 **Background**
@@ -140,6 +164,12 @@ More detail: [[c18-contract-law]]
 	- Little evidence typically in sexual assault torts
 	- If on balance of probabilities, assault did happen, sufficient to rule for plaintiff and make defendant pay
 	- Even in criminal sexual assault cases, corroborating evidence not required
+
+**Legal Significance**
+
+- Reinforces existing standard that civil suits are based on a *balance of probabilities*
+- Judge favours more likely scenario
+- Corroborating evidence not required for sexual assault cases even in criminal cases
 
 ### Case: *WIC Radio Ltd.* v. *Simpson*, [2008] S.C.C. 40 (CanLII)
 
@@ -175,6 +205,13 @@ More detail: [[c18-contract-law]]
 	- d) The person who made the comment believed them to be true
 - Court ruled that last test should be modified to read "if any person could honestly express that opinion based on the same facts"
 
+**Legal Significance**
+
+- Fair comment defence should not include element of honest belief
+- Only requirement should be that it's based on some *facts*
+- Shift of focus from speaker's mindset (hard to prove) to factual basis
+- Protects freedom of expression of journalists, media, and talk hosts
+
 ### Case: *M.* v. *H.*, [1999] 2 S.C.R. 3
 
 **Background**
@@ -200,6 +237,13 @@ More detail: [[c18-contract-law]]
 > 
 > &mdash; Justice Peter Cory
 
+**Legal Significance**
+
+- set precedent regarding legal def. of "spouse" in Ont.
+- recognition of same-sex relationships
+- Court gave gov't. of Ont. 6 months to change def.
+- other prov. followed suit in amending laws to incl. same-sex relationships
+
 ### Case: *Derrickson* v. *Derrickson*, [1986] 1 S.C.R. 285
 
 **Background**
@@ -220,6 +264,14 @@ More detail: [[c18-contract-law]]
 - Court awarded Rose compensation for her interest
 - Court could not award her equal division she would have had under prov. legislation
 - Critics argue that this law puts Aboriginal women at a disadvantage bcz. majority of Certificate of Possession holders are men
+
+**Legal Significance**
+
+- affirmed federal jurisdiction over reserve lands
+- limits on app. on family property rights on reserve lands
+- shows that Indigenous women can only rely on compensation, not fair share to land
+- highlights legal gap in protecting Indigenous women
+- exposure of systematic gender equality (most Cert. of Possession holders men)
 
 ## Part C: Communication
 
