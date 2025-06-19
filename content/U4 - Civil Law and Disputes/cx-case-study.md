@@ -16,7 +16,8 @@ unit: 4
 ### P1: Current State of Public Education
 
 - Boards allege that social media platforms have caused students to suffer from significant **mental health issues**
-	- "behavioural dysregulation, learning and attention impairments."
+- Platforms manipulated young student's **brain neurochemistry** to get them **hooked** to social media platforms
+- Causing reduced attention span and behavioural issues in class
 - The negative impacts of social media have *interfered* with the school boards' ability to **effectively educate children**
 
 ### P2: Major Arguments and List of Damages of Public Education Boards
