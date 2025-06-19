@@ -48,7 +48,7 @@ b --> c[Consideration]
 	- *unilateral contract*: acceptance by performing act requested
 	- burden shifted to offeror (offeree sends acceptance = accepted)
 - Consideration
-	- ✅ present consideration*, *future consideration*
+	- ✔ *present consideration*, *future consideration*
 	- ❌ *past consideration*
 
 More detail: [[c18-contract-law]]
@@ -288,6 +288,10 @@ mindmap
 		(Automobile Negligence)
 ```
 
+Link to *Donoghue* v. *Stevenson* [1932]
+
+Donoghue sues ginger beer manufacturer after her drink had a snail in it
+
 ### P. 469, Essential Elements of a Marriage
 
 ```mermaid
@@ -301,9 +305,17 @@ mindmap
 		(Sexual capacity)
 ```
 
+Link to *Al-smadi (father and next friend of Emman Al-smadi)* [1994]
+
+Emman Al-smadi (14) married Ra'A Ahmed Said (26) Islamically w/ father's consent
+
+Initially rejected (against public interest), but later approved (Emman mature and Ra taking PhD for EE)
+
 ### P. 478, Cohabitation &amp; Single-Parent Familial Trends
 
 ![Family trends](img/c16/c16-family-trend.png)
+
+Link to *Pettkus* v. *Becker*
 
 ### P. 458, Defences to Defamation
 
@@ -315,6 +327,8 @@ mindmap
 		(Qualified Priviledge)
 		(Absolute Priviledge)
 ```
+
+Link to *WIC Radio Ltd.* v. *Simpson*
 
 ## Part D: Application
 
